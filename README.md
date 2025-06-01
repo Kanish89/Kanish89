@@ -41,7 +41,7 @@
 ###
 <h2 align="left">Hi 👋! </h2>
  <h2> I am kanish.....</h2>
- <h2>I currently doing B.Tech IT</h2>
+
 <br clear="both">
 
 
